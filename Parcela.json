@@ -1,0 +1,20 @@
+[
+    {
+        "descrip": "Para animales",
+        "id": 1,
+        "tam": "250",
+        "title": "Mejostilla"
+    },
+    {
+        "descrip": "Para cosecha",
+        "id": 2,
+        "tam": "260",
+        "title": "Mejostilla"
+    },
+    {
+        "descrip": "Para almacenar",
+        "id": 3,
+        "tam": "150",
+        "title": "Mejostilla"
+    }
+]
